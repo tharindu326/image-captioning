@@ -1,0 +1,8 @@
+__pycache__
+*.jpg
+*.png
+*.bin
+*.vec
+
+selected_dataset
+wandb
